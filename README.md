@@ -1,4 +1,4 @@
-# OneDiceGame_JS_v2
+# OneDiceGame_JS_v3
 One dice game for two players in plain Javascript.
 
 
